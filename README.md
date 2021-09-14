@@ -1,2 +1,2 @@
 # AdministracionProyectos
-Tarea2 Esquipo Administración de Proyectos
+Tarea2 Equipo Administración de Proyectos
